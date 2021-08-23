@@ -1,7 +1,7 @@
 # FightGame
-Game criado com Vue.js
+Game created with Vue.js
 
-Utilizando conceitos: 
+using concepts: 
 
 v-if / v-else
 
@@ -12,6 +12,6 @@ v-for
 
 
 
-# Acesso teste:
+# test access:
 
 https://fabiobatoni.github.io/FightGame/
